@@ -1,4 +1,4 @@
-# tf2-arbitrage
+# tf2-
 [![License](https://img.shields.io/github/license/offish/tf2-arbitrage.svg)](https://github.com/offish/tf2-arbitrage/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/offish/tf2-arbitrage.svg)](https://github.com/offish/tf2-arbitrage/stargazers)
 [![Issues](https://img.shields.io/github/issues/offish/tf2-arbitrage.svg)](https://github.com/offish/tf2-arbitrage/issues)
